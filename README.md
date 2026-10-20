@@ -1,6 +1,6 @@
-## Hi, I'm Kyle Justine Paras 👋
+## Hi, I'm Kyle Justine Paras
 
-4th-year **BS Computer Science** student at **National University – Laguna** (First Honor Dean's List).
+4th-year **BS Computer Science** student at **National University – Laguna**.
 I build full-stack web systems and machine-learning models, with an eye for usability and clean structure.
 
 🌐 **Portfolio:** [kyle-paras-portfolio.vercel.app](https://kyle-paras-portfolio.vercel.app) · 📫 **kyleparas47@gmail.com** · 📍 Calamba, Laguna, PH
@@ -9,7 +9,7 @@ I build full-stack web systems and machine-learning models, with an eye for usab
 
 ---
 
-### 🔭 Featured work
+### Featured work
 
 | Project | What it is | My role | Stack |
 | --- | --- | --- | --- |
@@ -23,7 +23,7 @@ Full case studies: **[kyle-paras-portfolio.vercel.app](https://kyle-paras-portfo
 
 ---
 
-### 🛠️ Tech I work with
+### Tech I work with
 
 **Languages:** Python · JavaScript · PHP · SQL · HTML · CSS
 **Web:** React · Node.js · Express · Flask · Vite
