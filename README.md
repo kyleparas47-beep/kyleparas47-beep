@@ -16,7 +16,7 @@ I build full-stack web systems and machine-learning models, with an eye for usab
 | **[BehavioralGraph](https://kyle-paras-portfolio.vercel.app/projects/behavioralgraph-gnn-thesis)** · Thesis | Graph Neural Network classifying diabetes risk for 57,422 Filipino adults from national survey data | Co-researcher: data, modeling, evaluation | Python · PyTorch Geometric · scikit-learn |
 | **[NU Laguna e-Registrar](https://github.com/monsimonsi/NU-Laguna-eRegistrar-System)** | Online document requests with GCash / Maya payments and request tracking | Backend developer | React · Node.js · Express · MongoDB |
 | **[AskCampus](https://github.com/GerardLui/AskCampus-Chatbot)** | NLP chatbot answering student questions (76.8% accuracy, 38 intents) | ML / NLP model, chat UI | Python · scikit-learn · NLTK · Flask |
-| **[Class Efficiency Scheduling System](https://github.com/kyleparas47-beep/Class-Efficieny-Scheduling-System)** | Generates conflict-checked class timetables; cut conflicts ~80–90% | Team lead, full stack | React · Express · MySQL |
+| **[Class Efficiency Scheduling System](https://github.com/kyleparas47-beep/Class-Efficiency-Scheduling-System)** | Generates conflict-checked class timetables; cut conflicts ~80–90% | Team lead, full stack | React · Express · MySQL |
 | **[NUEvents: Event Calendar](https://github.com/kyleparas47-beep/Event-Calendar-System)** | Campus events with QR tickets and camera-based attendance | Team lead, full stack | PHP · MySQL · JavaScript |
 
 Full case studies: **[kyle-paras-portfolio.vercel.app](https://kyle-paras-portfolio.vercel.app/#projects)**
