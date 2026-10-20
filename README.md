@@ -5,7 +5,7 @@ I build full-stack web systems and machine-learning models, with an eye for usab
 
 🌐 **Portfolio:** [kyle-paras-portfolio.vercel.app](https://kyle-paras-portfolio.vercel.app) · 📫 **kyleparas47@gmail.com** · 📍 Calamba, Laguna, PH
 
-**Open to internships** in software development, data / ML and product analysis.
+**Open to internships** 
 
 ---
 
